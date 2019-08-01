@@ -1,0 +1,13 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "yarn test --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
